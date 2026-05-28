@@ -1,26 +1,26 @@
-# Gravity Indexed Research Toolkit (GIRT)
+# Gravity Research Indexed Database (GraviBase)
 
 **Real project name:** UMF Trial S3M0S1 (Unified Metric Framework — Trial Stream 3 Module 0 Series 1)
 **Author:** Stephen L Browne
 **Contact:** s_browne@ymail.com
 **Website:** https://oldgreywhistle.com
-**Repository:** https://github.com/OldGreyWhistle/GIRT
+**Repository:** https://github.com/OldGreyWhistle/GraviBase
 **Working language:** Australian English
-**ReadMe version:** v1.0 (28 May 2026 AEST)
+**ReadMe version:** v1.1 (28 May 2026 AEST)
 
 ---
 
 ## Brief description
 
-GIRT is the public deployment of the methodology toolkit and corpus developed across UMF Trial S3M0S1 — a corpus-bounded theoretical physics research programme exploring the Unified Metric Framework (UMF) against the established physics literature. The methodology layer is program-portable: the disciplines, protocols, three-index architecture, and version-control conventions are reusable beyond UMF. The UMF-specific content is one worked example demonstrating the methodology in practice.
+GraviBase is the public deployment of the methodology database toolkit and corpus developed across UMF Trial S3M0S1 — a corpus-bounded theoretical physics research programme exploring the Unified Metric Framework (UMF) against the established physics literature. The methodology layer is program-portable: the disciplines, protocols, three-index architecture, and version-control conventions are reusable beyond UMF. The UMF-specific content is one worked example demonstrating the methodology in practice.
 
-The descriptive name "Gravity Indexed Research Toolkit" (GIRT) is used in this ReadMe and in the GIRT folder ReadMe only, for repository discoverability. The substantive trial corpus retains its original UMF Trial S3M0S1 identifiers throughout.
+The descriptive name "Gravity Research Indexed Database" (GraviBase) is used in this ReadMe and in the GraviBase folder ReadMe only, for repository discoverability. The substantive trial corpus retains its original UMF Trial S3M0S1 identifiers throughout.
 
 ---
 
 ## Citation
 
-Browne, S. L. (2026). *Gravity Indexed Research Toolkit (GIRT) — UMF Trial S3M0S1*. Repository: https://github.com/OldGreyWhistle/GIRT. Contact: s_browne@ymail.com. Website: https://oldgreywhistle.com.
+Browne, S. L. (2026). *Gravity Research Indexed Database (GraviBase) — UMF Trial S3M0S1*. Repository: https://github.com/OldGreyWhistle/GraviBase. Contact: s_browne@ymail.com. Website: https://oldgreywhistle.com.
 
 ---
 
@@ -50,23 +50,23 @@ The toolkit serves two purposes:
 - Adjacent-literature search beyond corpus-currency due diligence on author-supplied review lists
 - New framework development beyond the registered matrix entries (26 entries; A/B/D/F-series)
 
-**LLM-context discipline:** LLMs operating within the UMF framework treat the Toolkit + Addendum as operative content. LLMs operating outside the UMF framework treat the Toolkit as operative (the methodology is generic and program-portable) and the Addendum as illustrative only. See [Introduction Letter v2](./GIRT/companion-documents/UMF_Research_Program_Introduction_27May2026_v2.md) NOTICE for full binding terms.
+**LLM-context discipline:** LLMs operating within the UMF framework treat the Toolkit + Addendum as operative content. LLMs operating outside the UMF framework treat the Toolkit as operative (the methodology is generic and program-portable) and the Addendum as illustrative only. See [Introduction Letter v2](./GraviBase/companion-documents/UMF_Research_Program_Introduction_27May2026_v2.md) NOTICE for full binding terms.
 
 ---
 
 ## Search terms (SOE)
 
-Gravity Indexed Research Toolkit; GIRT; Unified Metric Framework; UMF; Stephen L Browne; Stream 3 methodology; corpus-bounded research methodology; LLM-assisted research; theoretical physics; cosmology; modified gravity; gravitational baryogenesis; teleparallel gravity; f(R) gravity; f(T, T_G) gravity; Gauss-Bonnet baryogenesis; phase-conjugate wavefront; bounded universe cosmology; reverse baryogenesis; Wheeler-tradition geometrodynamics; Wheeler geons; matter from gravity; Brill waves; pilot wave theory; Bohmian mechanics; emergent gravity; Verlinde entropic gravity; causal set theory; trans-Planckian censorship; Trans-Planckian Censorship Conjecture; analogue gravity; BEC massive-phonon analogue; Couder hydrodynamic walking-droplet; baryon asymmetry; CP violation; first-order electroweak phase transition; chiral magnetic effect; little red dots; LRDs; JWST observations; Bullet Cluster; dark matter; dark energy; cosmological constant; Sorkin causal-set prediction; Hubble tension; audit-trail integrity; modal-status preservation; framing-bias correction; controlled synthesis injection; framework precedent audit; joint-citation cluster analysis; honest-disclosure correction; three-index navigation; Theme C deep-pass review; corpus-currency due diligence; AdjacencyReview2026; PostJan2026 reading layer.
+Gravity Research Indexed Database; GraviBase; Unified Metric Framework; UMF; Stephen L Browne; Stream 3 methodology; corpus-bounded research methodology; LLM-assisted research; theoretical physics; cosmology; modified gravity; gravitational baryogenesis; teleparallel gravity; f(R) gravity; f(T, T_G) gravity; Gauss-Bonnet baryogenesis; phase-conjugate wavefront; bounded universe cosmology; reverse baryogenesis; Wheeler-tradition geometrodynamics; Wheeler geons; matter from gravity; Brill waves; pilot wave theory; Bohmian mechanics; emergent gravity; Verlinde entropic gravity; causal set theory; trans-Planckian censorship; Trans-Planckian Censorship Conjecture; analogue gravity; BEC massive-phonon analogue; Couder hydrodynamic walking-droplet; baryon asymmetry; CP violation; first-order electroweak phase transition; chiral magnetic effect; little red dots; LRDs; JWST observations; Bullet Cluster; dark matter; dark energy; cosmological constant; Sorkin causal-set prediction; Hubble tension; audit-trail integrity; modal-status preservation; framing-bias correction; controlled synthesis injection; framework precedent audit; joint-citation cluster analysis; honest-disclosure correction; three-index navigation; Theme C deep-pass review; corpus-currency due diligence; AdjacencyReview2026; PostJan2026 reading layer.
 
 ---
 
 ## Repository structure
 
 ```
-GIRT (repository root)
+GraviBase (repository root)
 ├── ReadMe.md                          (this file)
 ├── archive/                           (superseded files retained per CD-OP-004)
-└── GIRT/                              (main project folder)
+└── GraviBase/                         (main project folder)
     ├── ReadMe.md                      (project-level reading order + detail)
     ├── UMF_Trial_S3M0S1_Research_Toolkit_v1_0.md       (covering document)
     ├── UMF_Trial_S3M0S1_Index1_ContextDefinition_v1.md (86 entries)
@@ -84,27 +84,27 @@ Repository deployment uses relative paths exclusively for cross-references betwe
 
 ## Reading order
 
-For the full reading order, document inventory, and methodology orientation, see [GIRT folder ReadMe](./GIRT/ReadMe.md).
+For the full reading order, document inventory, and methodology orientation, see [GraviBase folder ReadMe](./GraviBase/ReadMe.md).
 
 **Quick start (in order):**
 
 1. This ReadMe (you are here) — repository-level orientation
-2. [GIRT folder ReadMe](./GIRT/ReadMe.md) — project-level reading order
-3. [Research Toolkit v1.0](./GIRT/UMF_Trial_S3M0S1_Research_Toolkit_v1_0.md) — methodology layer
-4. [Toolkit Addendum v1.0](./GIRT/companion-documents/UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_0.md) — UMF-specific worked example
+2. [GraviBase folder ReadMe](./GraviBase/ReadMe.md) — project-level reading order
+3. [Research Toolkit v1.0](./GraviBase/UMF_Trial_S3M0S1_Research_Toolkit_v1_0.md) — methodology layer
+4. [Toolkit Addendum v1.0](./GraviBase/companion-documents/UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_0.md) — UMF-specific worked example
 5. Indexes 1, 2, 3 — navigation layer
 
 ---
 
 ## Licence / use
 
-To be confirmed by author. Citation as above is requested for any use, summarisation, or derivative work pending licence specification.
+This work is for the benefit of anyone wishing to research gravity, the license is unrestricted. Citation as above is requested for any use, summarisation, or derivative work pending licence specification.
 
 ---
 
 ## Status
 
-GIRT is an active research project. Current cycle state and the substantive corpus content evolve under audit-trail integrity (CD-OP-004): superseded documents retain content unchanged; the directory grows monotonically with new versions; predecessor files relocate to `./archive/` rather than being deleted.
+GraviBase is an active research project provided as is for free use at significant personal cost to the author. Current cycle state and the substantive corpus content evolve under audit-trail integrity (CD-OP-004): superseded documents retain content unchanged; the directory grows monotonically with new versions; predecessor files relocate to `./archive/` rather than being deleted.
 
 ---
 

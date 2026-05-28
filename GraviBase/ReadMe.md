@@ -62,11 +62,10 @@ For full state recovery and methodology orientation, read in this order:
 ### `./companion-documents/`
 
 UMF-program-specific and supporting documents:
-- `UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_1.md` — UMF-specific worked example
+- `UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_1.md` — UMF-specific worked example (withheld)
 - `UMF_Trial_S3M0S1_Indexes_Design_Spec_v3.md` — design contract for the three indexes
-- `UMF_Trial_S3M0S1_Synthesis_Paper_Scaffold_v8_consolidated.md` — synthesis structure
-- `UMF_Trial_S3M0S1_Research_Plan_v0_7_Draft.docx` — research plan substantive content
-- `UMF_Trial_S3M0S1_Thread_Handoff_v8.md` — current handoff document
+- `UMF_Trial_S3M0S1_Synthesis_Paper_Scaffold_v9.md` — UMF synthesis structure (withheld)
+- `UMF_Trial_S3M0S1_Research_Plan_v0_7_Draft.docx` — research plan substantive content (withheld)
 - `UMF_Research_Program_Introduction_27May2026_v2.md` — Introduction Letter
 - Predecessor drafts (Toolkit v0.1/v0.2; Addendum v0.1; Handoff v6/v7) — retained per CD-OP-004
 
@@ -143,8 +142,6 @@ Master VC v1.2 is the current canonical running log (28 May 2026 AEST). Amendmen
 - Hyperlink completeness pass across 31 deep-review reports → Index v2 cross-reference manifests
 - Scaffold v8 inline reference updates to renamed deeppass filenames
 - Cycle artefact relocation (CD-OP-040 entry draft, Amendment 13 draft, Action checklist) to staging or `./companion-documents/`
-
-For current pending Stephen direction, see [Thread Handoff v8](./companion-documents/UMF_Trial_S3M0S1_Thread_Handoff_v8.md) §8 and §12.
 
 ---
 

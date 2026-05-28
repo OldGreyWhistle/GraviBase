@@ -6,11 +6,18 @@
 **Status:** v2 supersedes v1 (`UMF_Research_Program_-_Introduction_27May2026.rtf`) for working use. v1 retained for audit-trail integrity per UMF Trial S3M0S1 standing rule.
 
 **References (UMF Trial S3M0S1 current authoritative deliverables):**
-- `UMF_Trial_S3M0S1_Research_Plan_v0_4_Draft.docx`
-- `UMF_Trial_S3M0S1_Synthesis_Paper_Scaffold_v6_consolidated.md`
-- `VC_v0_35_Amendment7_framework_name_trial_renumber_items_1_2_positions.md`
-- `VC_v0_35_Amendment8_introduction_letter_postulate_2_refinement_modal_overreach.md`
-- `UMF_Trial_S3M0S1_Thread_Handoff_v4.md`
+- `UMF_Trial_S3M0S1_Research_Toolkit_v1_1.md`
+- `UMF_Trial_S3M0S1_Index1_ContextDefinition_v2.md`
+- `UMF_Trial_S3M0S1_Index2_ContextRelationships_v2.md`
+- `UMF_Trial_S3M0S1_Index3_MetricUnits_v2.md`
+- `./companion-documents/UMF_Research_Program_Introduction_27May2026_v2.md`
+- `./companion-documents/UMF_Trial_S3M0S1_Indexes_Design_Spec_v3.md`
+- `./version-control/UMF_Trial_S3M5S1_Version_Control_v1_2.md`
+- `./version-control/VC_v0_35_Amendment14_hyperlink_completeness_cycle.md`
+- `./version-control/VC_v0_35_Amendment13_filename_alignment_cycle.md`
+**Not Published (UMF and UMF Trial Specific)**
+- `UMF_Trial_S3M0S1_Research_Toolkit_Addendum_v1_1.md`
+- `UMF_Trial_S3M0S1_Synthesis_Paper_Scaffold_v9.md`
 
 ---
 

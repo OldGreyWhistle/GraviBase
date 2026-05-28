@@ -191,11 +191,11 @@ This avoids both over-claiming alignment with Hestenes' specific programme and u
 
 ### Cross-references
 
-- **A-09 ↔ A-01 Wheeler 1955:** Both are particle-as-localised-geometric-structure programmes in the Wheeler-direction tradition. A-01 is the historical foundation; A-09 is the modern mathematical-formalism realisation via STA + zitter + toroidal-vortex.
-- **A-09 ↔ A-05 Liebling-Palenzuela 2023:** Both engage "particles as localised geometric/dynamical structures." A-05 has empirical engagement (LIGO/Virgo/EHT/HSC/PTA); A-09 has mathematical formalism. **Complementary along Stephen-question 2 adjudication structure** (A-05 strongest empirical; A-09 closest mathematical to GWM).
-- **A-09 ↔ A-02 Bohmian / A-03 de Broglie / A-07 DGTZ:** All are realist interpretations of quantum mechanics with explicit particle-trajectory commitments. A-09's zitter electron is one specific realist construction; A-02/A-03/A-07 family is a different realist programme.
-- **A-09 ↔ A-08 Penrose twistor:** Both are foundational-radical mathematical reformulations. A-08 inverts spacetime-primary picture (geometric-data-as-particle); A-09 reformulates Dirac equation using STA + treats electron as vortex singularity. Different directions of foundational radicalism.
-- **A-09 ↔ B-01 Misner-Wheeler geometrodynamics:** Both are gravity-primary / geometry-primary in foundational direction. A-09 at single-particle level; B-01 at gravitational-field level.
+- **A-09 ↔ [A-01](A-01_ThemeC_deeppass.md) Wheeler 1955:** Both are particle-as-localised-geometric-structure programmes in the Wheeler-direction tradition. A-01 is the historical foundation; A-09 is the modern mathematical-formalism realisation via STA + zitter + toroidal-vortex.
+- **A-09 ↔ [A-05](A-05_ThemeC_deeppass.md) Liebling-Palenzuela 2023:** Both engage "particles as localised geometric/dynamical structures." A-05 has empirical engagement (LIGO/Virgo/EHT/HSC/PTA); A-09 has mathematical formalism. **Complementary along Stephen-question 2 adjudication structure** (A-05 strongest empirical; A-09 closest mathematical to GWM).
+- **A-09 ↔ [A-02](A-02_ThemeC_deeppass.md) Bohmian / A-03 de Broglie / A-07 DGTZ:** All are realist interpretations of quantum mechanics with explicit particle-trajectory commitments. A-09's zitter electron is one specific realist construction; A-02/A-03/A-07 family is a different realist programme.
+- **A-09 ↔ [A-08](A-08_ThemeC_deeppass.md) Penrose twistor:** Both are foundational-radical mathematical reformulations. A-08 inverts spacetime-primary picture (geometric-data-as-particle); A-09 reformulates Dirac equation using STA + treats electron as vortex singularity. Different directions of foundational radicalism.
+- **A-09 ↔ [B-01](B-01_ThemeC_deeppass.md) Misner-Wheeler geometrodynamics:** Both are gravity-primary / geometry-primary in foundational direction. A-09 at single-particle level; B-01 at gravitational-field level.
 - **A-09 ↔ GWM:** Stephen-question 2 adjudication recorded above; recommended framing submitted for Stephen decision.
 - **A-09 ↔ UMF v0.7 §3.1 assumption 4:** Hestenes treats ℏ as constant load-bearing parameter; UMF v0.7 admits ℏ as stable under stable geometry and possibly geometry-coupled under variant geometry. Compatible at stable-geometry regime; UMF v0.7 broader.
 

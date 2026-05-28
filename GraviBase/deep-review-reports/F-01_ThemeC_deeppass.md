@@ -107,11 +107,11 @@ F-01 is a review paper. Per RP §4 three-category framework:
 ### Cross-references
 
 - **F-01 ↔ A-03 Valentini quantum non-equilibrium:** Both engage inflaton decay; A-03 is the contrasting-branch inflaton-decay framing under pilot-wave/quantum-non-equilibrium statistics (vs F-01's standard QFT statistics). F-01 + A-03 jointly bound the "inflaton-decay matter-creation" mechanism space.
-- **F-01 ↔ A-05 oscillons:** Section VI.1.3 of F-01 touches inflaton-field localisation; A-05 (Amin et al., Zhang-Jain-Amin) is the modern oscillon-as-third-non-thermal-mechanism literature. F-01 is the upstream reheating-framework reference; A-05 is the specific oscillon-mechanism descendant.
+- **F-01 ↔ [A-05](A-05_ThemeC_deeppass.md) oscillons:** Section VI.1.3 of F-01 touches inflaton-field localisation; A-05 (Amin et al., Zhang-Jain-Amin) is the modern oscillon-as-third-non-thermal-mechanism literature. F-01 is the upstream reheating-framework reference; A-05 is the specific oscillon-mechanism descendant.
 - **F-01 ↔ A-07 DGTZ Bell-type QFT:** Both produce particles non-thermally; A-07 has explicit Fock-space stochastic jumps (Bell-type beables); F-01 has parametric resonance with adiabaticity-violation creation. Different mechanism types within same broad non-thermal class.
-- **F-01 ↔ B-02 Brill-wave critical collapse:** F-01 metric preheating Section VI.2 explicitly notes NO direct GW preheating; B-02 provides the gravity-only matter-creation mechanism F-01 explicitly excludes. F-01 + B-02 jointly demonstrate the gap in mainstream reheating literature that UMF's G-shock mechanism would fill.
-- **F-01 ↔ F-02 first-order PT:** F-01 and F-02 are the two standard non-cyclic post-inflation matter-formation mechanisms; F-01 reheating after inflation; F-02 phase-transition asymmetry generation. Often combined (electroweak baryogenesis during reheating at first-order EW PT).
-- **F-01 ↔ D-01 trans-Planckian problem:** F-01 sub-Planckian inflationary scale H_inf ~ 10¹³–10¹⁴ GeV stays clear of the D-01 trans-Planckian regime; the trans-Planckian question does not arise for F-01 mechanism per se.
+- **F-01 ↔ [B-02](B-02_ThemeC_deeppass.md) Brill-wave critical collapse:** F-01 metric preheating Section VI.2 explicitly notes NO direct GW preheating; B-02 provides the gravity-only matter-creation mechanism F-01 explicitly excludes. F-01 + B-02 jointly demonstrate the gap in mainstream reheating literature that UMF's G-shock mechanism would fill.
+- **F-01 ↔ [F-02](F-02_ThemeC_deeppass.md) first-order PT:** F-01 and F-02 are the two standard non-cyclic post-inflation matter-formation mechanisms; F-01 reheating after inflation; F-02 phase-transition asymmetry generation. Often combined (electroweak baryogenesis during reheating at first-order EW PT).
+- **F-01 ↔ [D-01](D-01_D-02_ThemeC_deeppass.md) trans-Planckian problem:** F-01 sub-Planckian inflationary scale H_inf ~ 10¹³–10¹⁴ GeV stays clear of the D-01 trans-Planckian regime; the trans-Planckian question does not arise for F-01 mechanism per se.
 
 ### Outside-corpus markers
 

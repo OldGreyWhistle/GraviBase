@@ -143,9 +143,9 @@ A-02 is **interpretational framework** — empirically equivalent to standard QM
 
 - **A-02 ↔ A-03 Valentini relic:** **Direct foundational engagement.** A-03 Valentini non-equilibrium DM relic operates within Bohmian-mechanics framework; A-02 provides the foundational Bohmian-mechanics layer. **Cannot have A-03 without A-02.**
 - **A-02 ↔ A-07 DGTZ Bell-type QFT:** **Direct foundational engagement.** DGTZ Bell-type Hamiltonian QFT (per A-07 Theme A initial) builds on Bohmian/DGZ framework. **A-02 + A-07 same lineage.**
-- **A-02 ↔ A-06 Couder hydrodynamic analogues:** **Direct technical engagement** per 2024 arXiv:2408.05396 convergence-to-Bohmian-mechanics analysis + Drezet-Amblard 2025 verbatim "approaches exploiting mechanical analogies to overcome the limitations of current Bohmian theory and perhaps quantum mechanics itself." **A-02 + A-06 cross-coupling.**
-- **A-02 ↔ A-04 Skyrme:** Different non-standard frameworks; both engage particle-interpretation questions in QFT contexts.
-- **A-02 ↔ F-06 LQG, F-07 CST:** Methodological-precedent cross-references — all engage QM/QFT foundational-question-open status.
+- **A-02 ↔ [A-06](A-06_ThemeC_deeppass.md) Couder hydrodynamic analogues:** **Direct technical engagement** per 2024 arXiv:2408.05396 convergence-to-Bohmian-mechanics analysis + Drezet-Amblard 2025 verbatim "approaches exploiting mechanical analogies to overcome the limitations of current Bohmian theory and perhaps quantum mechanics itself." **A-02 + A-06 cross-coupling.**
+- **A-02 ↔ [A-04](A-04_ThemeC_deeppass.md) Skyrme:** Different non-standard frameworks; both engage particle-interpretation questions in QFT contexts.
+- **A-02 ↔ [F-06](F-06_ThemeC_deeppass.md) LQG, [F-07](F-07_ThemeC_deeppass.md) CST:** Methodological-precedent cross-references — all engage QM/QFT foundational-question-open status.
 - **A-02 ↔ UMF v0.7 § QM foundations:** **Direct interpretational option** — if UMF synthesis paper addresses QM-foundations explicitly, A-02 Bohmian mechanics provides one of the mainstream interpretational frameworks for citation. Cross-reference Hestenes STA (A-09 already deep-passed) for geometric-algebra-based alternative interpretational framework.
 
 ### Outside-corpus markers

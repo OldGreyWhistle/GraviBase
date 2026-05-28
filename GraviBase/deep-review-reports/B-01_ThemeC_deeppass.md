@@ -151,10 +151,10 @@ This deep-pass entry completes the Wheeler-programme bracket for the synthesis p
 **This is the strongest mainstream-physics historical-lineage UMF can claim**, with all four positions firmly within Wheeler's own programmatic evolution.
 
 **Other cross-references:**
-- **B-01 ↔ A-09 Hestenes 2019:** Both treat EM vacuum as constitutive medium for particles. A-09 specifies toroidal-vortex structure in EM vacuum; B-01 establishes the broader programme (EM-as-geometry-derived via Rainich; particles as field configurations) that A-09 specialises. Conceptual lineage.
-- **B-01 ↔ A-05 boson stars / B-02 Brill waves:** Modern realisations of "mass without mass" programme. A-05 with scalar field; B-02 with pure gravity.
-- **B-01 ↔ F-08 Verlinde EG:** Both gravity-related foundational programmes; B-01 geometry-primary classical; F-08 emergent-from-information modern. **Wheeler programme evolution** from geometry-primary (B-01) to information-primary (B-04) is the historical bracket within which F-08 emerges.
-- **B-01 ↔ B-03 ADD:** Both engage geometric foundations for fundamental constants. B-03 derives G-variation from extra-dimensional compactification volume; B-01 derives EM field tensor from Ricci tensor. **Different mechanisms; both provide UMF v0.7 §3.1 assumption 4 mainstream-precedent backing.** B-03 for G; B-01 for ε₀/μ₀.
+- **B-01 ↔ [A-09](A-09_ThemeC_deeppass.md) Hestenes 2019:** Both treat EM vacuum as constitutive medium for particles. A-09 specifies toroidal-vortex structure in EM vacuum; B-01 establishes the broader programme (EM-as-geometry-derived via Rainich; particles as field configurations) that A-09 specialises. Conceptual lineage.
+- **B-01 ↔ [A-05](A-05_ThemeC_deeppass.md) boson stars / [B-02](B-02_ThemeC_deeppass.md) Brill waves:** Modern realisations of "mass without mass" programme. A-05 with scalar field; B-02 with pure gravity.
+- **B-01 ↔ [F-08](F-08_ThemeC_deeppass.md) Verlinde EG:** Both gravity-related foundational programmes; B-01 geometry-primary classical; F-08 emergent-from-information modern. **Wheeler programme evolution** from geometry-primary (B-01) to information-primary (B-04) is the historical bracket within which F-08 emerges.
+- **B-01 ↔ [B-03](B-03_ThemeC_deeppass.md) ADD:** Both engage geometric foundations for fundamental constants. B-03 derives G-variation from extra-dimensional compactification volume; B-01 derives EM field tensor from Ricci tensor. **Different mechanisms; both provide UMF v0.7 §3.1 assumption 4 mainstream-precedent backing.** B-03 for G; B-01 for ε₀/μ₀.
 - **B-01 ↔ 2025 Dzhunushaliev-Folomeev:** Modern active realisation of Misner-Wheeler "mass without mass" and "charge without charge" via rotating asymmetric wormhole — verified verbatim attribution to Wheeler. Continued active research line 2025.
 
 ### Outside-corpus markers

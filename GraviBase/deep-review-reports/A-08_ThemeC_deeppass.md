@@ -148,11 +148,11 @@ A-08 has **substantial empirical engagement via modern amplitudes applications**
 
 ### Cross-references
 
-- **A-08 ↔ A-09 Hestenes STA:** **Direct technical engagement via spinor/Clifford-algebra foundations.** Both engage geometric-algebraic alternative mathematical foundations for physics. A-09 STA + zitter; A-08 twistor algebra + null-geodesic primacy. **Conceptual neighbourhood.** Penrose-Rindler 1984/1986 *Spinors and Space-Time* textbook bridges both frameworks.
-- **A-08 ↔ B-01 Misner-Wheeler geometrodynamics:** **Direct alignment.** Both engage matter-from-geometry programmes. B-01 historical (1957); A-08 modern alternative geometric-foundations framework.
-- **A-08 ↔ A-01 Wheeler geons:** Geometric-foundations cross-reference; both Wheeler-direction or Wheeler-related mainstream-physics geometric-foundations programmes.
-- **A-08 ↔ F-07 CST:** Both engage alternative geometric foundations for physics. F-07 discrete causal-order primitive; A-08 complex projective space ℂℙ³ with null-geodesic primacy. **Different specific structures; same alternative-geometric-foundations direction.**
-- **A-08 ↔ F-06 LQG:** Both alternative geometric-foundations approaches to QM/gravity unification. Different specific structures.
+- **A-08 ↔ [A-09](A-09_ThemeC_deeppass.md) Hestenes STA:** **Direct technical engagement via spinor/Clifford-algebra foundations.** Both engage geometric-algebraic alternative mathematical foundations for physics. A-09 STA + zitter; A-08 twistor algebra + null-geodesic primacy. **Conceptual neighbourhood.** Penrose-Rindler 1984/1986 *Spinors and Space-Time* textbook bridges both frameworks.
+- **A-08 ↔ [B-01](B-01_ThemeC_deeppass.md) Misner-Wheeler geometrodynamics:** **Direct alignment.** Both engage matter-from-geometry programmes. B-01 historical (1957); A-08 modern alternative geometric-foundations framework.
+- **A-08 ↔ [A-01](A-01_ThemeC_deeppass.md) Wheeler geons:** Geometric-foundations cross-reference; both Wheeler-direction or Wheeler-related mainstream-physics geometric-foundations programmes.
+- **A-08 ↔ [F-07](F-07_ThemeC_deeppass.md) CST:** Both engage alternative geometric foundations for physics. F-07 discrete causal-order primitive; A-08 complex projective space ℂℙ³ with null-geodesic primacy. **Different specific structures; same alternative-geometric-foundations direction.**
+- **A-08 ↔ [F-06](F-06_ThemeC_deeppass.md) LQG:** Both alternative geometric-foundations approaches to QM/gravity unification. Different specific structures.
 - **A-08 ↔ Penrose-Diosi gravity collapse:** **Direct connection via Penrose's foundational programme.** Twistor framework + gravity-induced objective reduction are both elements of Penrose's broader mathematical-physics direction. **Cross-reference potentially relevant to UMF G-shock concept.**
 - **A-08 ↔ Witten-string-theory / ambitwistor strings:** Modern mainstream-string-theory engagement validates twistor framework's continued mainstream-physics legitimacy.
 - **A-08 ↔ UMF GWM geometric-foundations programme:** **Methodological precedent for spacetime-as-derived-from-geometric-structure** — important supporting citation.

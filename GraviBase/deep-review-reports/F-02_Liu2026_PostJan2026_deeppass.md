@@ -153,7 +153,7 @@ The paper's stated robustness claim: "Our conclusion would not be altered if eff
 
 **Existing matrix entry engaged:** F-02 (first-order phase transitions), anchor Mazumdar-White 2019 *Rep. Prog. Phys.* 82:076901 (arXiv:1811.01948) + Croon et al. 2020 *JHEP* 04:055 (arXiv:2009.10080).
 
-**Sub-list placement:** F-02 sub-list. NOT F-05 (no gravity-baryon coupling beyond standard FRW; no geometry-driven elements; mechanism is standard BSM electroweak baryogenesis with magnetic-field amplification).
+**Sub-list placement:** F-02 sub-list. NOT [F-05](F-05_ThemeC_deeppass.md) (no gravity-baryon coupling beyond standard FRW; no geometry-driven elements; mechanism is standard BSM electroweak baryogenesis with magnetic-field amplification).
 
 **Distinction from F-05 cluster:** Paper 8 is kept structurally distinct from the geometry-baryogenesis F-05 cluster (Papers 1-5, 7 of the Stephen review list). Different physics class entirely:
 - F-05 cluster: gravity-baryon coupling, modified gravity / scalar-tensor representation, geometry-driven asymmetry

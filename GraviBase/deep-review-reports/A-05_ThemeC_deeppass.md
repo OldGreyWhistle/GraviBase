@@ -193,13 +193,13 @@ This avoids forcing a single "closest antecedent" claim and acknowledges each en
 
 ### Cross-references
 
-- **A-05 ↔ A-01 Wheeler 1955:** A-05 is the modern realisation of the Wheeler-geon programme that A-01 founded. Liebling-Palenzuela 2023 opens with explicit Wheeler-geon framing.
-- **A-05 ↔ A-09 Hestenes:** Both engage "particles as localised field/geometric structures." Different mathematical machinery (BS scalar field vs Hestenes geometric algebra + toroidal vortex). Both differ from GWM in specific mathematical choices.
-- **A-05 ↔ F-01 reheating:** Oscillons as A-05 sub-family form during F-01 preheating epoch. F-01 → A-05 oscillons is the post-inflation matter-formation pipeline for oscillon-class matter.
-- **A-05 ↔ F-02 phase transitions:** Q-balls form at SUSY-breaking PT; oscillons can form at first-order PT in addition to preheating. F-02 → A-05 is the PT → soliton formation pipeline.
-- **A-05 ↔ F-04 cosmic strings:** Both topological and non-topological solitons. F-04 + A-05 jointly cover the "soliton dark matter / soliton matter" mechanism space.
-- **A-05 ↔ A-04 Skyrme:** A-04 self-gravitating Skyrmions (arXiv:2503.03872 2025) are gravitationally bound localised matter configurations — Skyrme analogue to boson star.
-- **A-05 ↔ B-02 Brill waves:** Both produce gravitationally bound localised structures. B-02 from pure GW (no matter field); A-05 from scalar/vector field. Different content; same general direction (Wheeler-direction matter-from-localised-bound-state).
+- **A-05 ↔ [A-01](A-01_ThemeC_deeppass.md) Wheeler 1955:** A-05 is the modern realisation of the Wheeler-geon programme that A-01 founded. Liebling-Palenzuela 2023 opens with explicit Wheeler-geon framing.
+- **A-05 ↔ [A-09](A-09_ThemeC_deeppass.md) Hestenes:** Both engage "particles as localised field/geometric structures." Different mathematical machinery (BS scalar field vs Hestenes geometric algebra + toroidal vortex). Both differ from GWM in specific mathematical choices.
+- **A-05 ↔ [F-01](F-01_ThemeC_deeppass.md) reheating:** Oscillons as A-05 sub-family form during F-01 preheating epoch. F-01 → A-05 oscillons is the post-inflation matter-formation pipeline for oscillon-class matter.
+- **A-05 ↔ [F-02](F-02_ThemeC_deeppass.md) phase transitions:** Q-balls form at SUSY-breaking PT; oscillons can form at first-order PT in addition to preheating. F-02 → A-05 is the PT → soliton formation pipeline.
+- **A-05 ↔ [F-04](F-04_ThemeC_deeppass.md) cosmic strings:** Both topological and non-topological solitons. F-04 + A-05 jointly cover the "soliton dark matter / soliton matter" mechanism space.
+- **A-05 ↔ [A-04](A-04_ThemeC_deeppass.md) Skyrme:** A-04 self-gravitating Skyrmions (arXiv:2503.03872 2025) are gravitationally bound localised matter configurations — Skyrme analogue to boson star.
+- **A-05 ↔ [B-02](B-02_ThemeC_deeppass.md) Brill waves:** Both produce gravitationally bound localised structures. B-02 from pure GW (no matter field); A-05 from scalar/vector field. Different content; same general direction (Wheeler-direction matter-from-localised-bound-state).
 - **A-05 ↔ UMF T_G:** Partial alignment via pressure-dynamical-scalar structure. **Closest Theme A T_G structural analogue.**
 - **A-05 ↔ UMF gravitoelectric DM:** Negative on particle DM (BS DM is particle DM); independent positive on Wheeler-direction precedent.
 

@@ -153,13 +153,13 @@ F-07 CST has **substantial indirect empirical engagement** via Sorkin 1990 Λ pr
 
 ### Cross-references
 
-- **F-07 ↔ F-06 LQG:** Both quantum-gravity-framework candidates; different discretisation philosophies (F-06 continuous SU(2) gauge fields with spin-network discretisation; F-07 fundamentally discrete causal-order primitive). **Both have matter-coupling open question status.** F-07 has Lorentz-invariance preservation feature; F-06 has spinfoam matter-coupling progress.
-- **F-07 ↔ F-09 Hořava-Lifshitz:** **Direct contrast** on Lorentz-invariance question. CST preserves Lorentz invariance; HL violates at UV. **Different quantum-gravity philosophies.**
-- **F-07 ↔ F-03 bouncing cosmology:** Cyclic-CST cosmology proposals provide CYC option for UMF (per Nature Index verbatim "cyclic phases"); cross-reference F-03 CYC framework.
-- **F-07 ↔ D-01/D-02 trans-Planckian:** CST operates fundamentally at Planck scale; provides quantum-gravity UV completion option that preserves Lorentz invariance.
-- **F-07 ↔ B-01 Misner-Wheeler geometrodynamics:** **Direct technical engagement.** Nomaan 2023 verbatim: "matter as a causal set" approach explicitly invokes Wheeler-geometrodynamics ("matter arises from spacetime"). **F-07 + B-01 jointly engage** the matter-from-spacetime foundational programme.
-- **F-07 ↔ F-08 Verlinde EG:** Both engage information/entropy/discrete-foundations of gravity. Different specific approaches (F-07 discrete causal-order primitive; F-08 entanglement-entropy emergent).
-- **F-07 ↔ B-04 It-from-Bit:** Both engage discrete/information foundations. **Direct conceptual alignment** with B-04 information-allowance position.
+- **F-07 ↔ [F-06](F-06_ThemeC_deeppass.md) LQG:** Both quantum-gravity-framework candidates; different discretisation philosophies (F-06 continuous SU(2) gauge fields with spin-network discretisation; F-07 fundamentally discrete causal-order primitive). **Both have matter-coupling open question status.** F-07 has Lorentz-invariance preservation feature; F-06 has spinfoam matter-coupling progress.
+- **F-07 ↔ [F-09](F-09_ThemeC_deeppass.md) Hořava-Lifshitz:** **Direct contrast** on Lorentz-invariance question. CST preserves Lorentz invariance; HL violates at UV. **Different quantum-gravity philosophies.**
+- **F-07 ↔ [F-03](F-03_ThemeC_deeppass.md) bouncing cosmology:** Cyclic-CST cosmology proposals provide CYC option for UMF (per Nature Index verbatim "cyclic phases"); cross-reference F-03 CYC framework.
+- **F-07 ↔ [D-01](D-01_D-02_ThemeC_deeppass.md)/D-02 trans-Planckian:** CST operates fundamentally at Planck scale; provides quantum-gravity UV completion option that preserves Lorentz invariance.
+- **F-07 ↔ [B-01](B-01_ThemeC_deeppass.md) Misner-Wheeler geometrodynamics:** **Direct technical engagement.** Nomaan 2023 verbatim: "matter as a causal set" approach explicitly invokes Wheeler-geometrodynamics ("matter arises from spacetime"). **F-07 + B-01 jointly engage** the matter-from-spacetime foundational programme.
+- **F-07 ↔ [F-08](F-08_ThemeC_deeppass.md) Verlinde EG:** Both engage information/entropy/discrete-foundations of gravity. Different specific approaches (F-07 discrete causal-order primitive; F-08 entanglement-entropy emergent).
+- **F-07 ↔ [B-04](B-04_ThemeC_deeppass.md) It-from-Bit:** Both engage discrete/information foundations. **Direct conceptual alignment** with B-04 information-allowance position.
 - **F-07 ↔ UMF v0.7 c-constant commitment:** **Direct alignment via Lorentz-invariance preservation.** F-07 is strongest Lorentz-invariance-preserving alternative to F-09 HL for quantum-gravity framework citation.
 - **F-07 ↔ UMF synthesis paper:** Methodological-precedent for quantum-gravity-framework citation + Lorentz-invariance-preservation + Sorkin 1990 successful pre-discovery cosmological-constant prediction.
 

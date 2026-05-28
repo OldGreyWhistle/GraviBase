@@ -144,11 +144,11 @@ F-05 has **substantial empirical engagement** via baryon-asymmetry observational
 
 ### Cross-references
 
-- **F-05 ↔ F-02 first-order PT baryogenesis:** **Both asymmetry-generation frameworks.** F-02 uses CP-violating new physics at bubble walls; F-05 uses gravitational anomaly coupling with Ricci-scalar-dynamics. **Different mechanisms; same category** (asymmetry generation vs pure creation).
-- **F-05 ↔ F-01 inflationary reheating:** Gravitational baryogenesis operates naturally in inflationary regime where Ṙ ≠ 0; F-01 reheating provides post-inflation context where F-05 mechanism can be effective. **F-01 + F-05 jointly cover inflation-end matter-asymmetry pipeline.**
-- **F-05 ↔ F-03 bouncing cosmology:** Bounce provides Ṙ ≠ 0 regime as alternative to inflation for F-05 mechanism operation. **F-03 + F-05 alternative pipeline** to standard inflation + reheating.
-- **F-05 ↔ F-09 Hořava-Lifshitz:** Modified-gravity extensions per "Cosmological constraints on Hořava gravity revised in light of GW170817 and degeneracy with massive neutrinos" provide alternative gravity-sector context for F-05-type mechanisms.
-- **F-05 ↔ B-03 Kaluza-Klein:** Both engage modified-gravity / higher-dimensional context. F-05 in 4D with modified-gravity extensions; B-03 in higher-dimensional context.
+- **F-05 ↔ [F-02](F-02_ThemeC_deeppass.md) first-order PT baryogenesis:** **Both asymmetry-generation frameworks.** F-02 uses CP-violating new physics at bubble walls; F-05 uses gravitational anomaly coupling with Ricci-scalar-dynamics. **Different mechanisms; same category** (asymmetry generation vs pure creation).
+- **F-05 ↔ [F-01](F-01_ThemeC_deeppass.md) inflationary reheating:** Gravitational baryogenesis operates naturally in inflationary regime where Ṙ ≠ 0; F-01 reheating provides post-inflation context where F-05 mechanism can be effective. **F-01 + F-05 jointly cover inflation-end matter-asymmetry pipeline.**
+- **F-05 ↔ [F-03](F-03_ThemeC_deeppass.md) bouncing cosmology:** Bounce provides Ṙ ≠ 0 regime as alternative to inflation for F-05 mechanism operation. **F-03 + F-05 alternative pipeline** to standard inflation + reheating.
+- **F-05 ↔ [F-09](F-09_ThemeC_deeppass.md) Hořava-Lifshitz:** Modified-gravity extensions per "Cosmological constraints on Hořava gravity revised in light of GW170817 and degeneracy with massive neutrinos" provide alternative gravity-sector context for F-05-type mechanisms.
+- **F-05 ↔ [B-03](B-03_ThemeC_deeppass.md) Kaluza-Klein:** Both engage modified-gravity / higher-dimensional context. F-05 in 4D with modified-gravity extensions; B-03 in higher-dimensional context.
 - **F-05 ↔ McDonald-Shore quantum-loop generation:** Curvature-current coupling can be generated automatically through quantum loop effects in curved spacetime — provides alternative origin for F-05-type couplings.
 - **F-05 ↔ UMF G-shock baryogenesis question:** **F-05 provides mainstream mechanism for gravity-sector coupling to baryon-asymmetry generation** that UMF could in principle adopt if UMF synthesis addresses baryogenesis explicitly. **Caveats** (asymmetry not pure creation; Ṙ=0 radiation-domination issue; multiple-ingredient requirement) must be honestly disclosed.
 

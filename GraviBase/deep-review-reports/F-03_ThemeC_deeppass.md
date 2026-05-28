@@ -172,14 +172,14 @@ F-03 has **substantial mixed empirical engagement** via CMB perturbation spectru
 
 ### Cross-references
 
-- **F-03 ↔ F-01 reheating:** F-03 is presented explicitly as **alternative to inflation** (F-01). Brandenberger-Peter 2017 abstract verbatim: "We review the status of bouncing cosmologies as alternatives to cosmological inflation for providing a description of the very early universe." **Direct alternative-framing relationship.** Some bounce models (ekpyrotic; LQC) borrow F-01-class reheating apparatus post-bounce.
-- **F-03 ↔ F-06 LQG/LQC:** Loop quantum cosmology bounce is one of the principal F-03 sub-classes. **Direct technical overlap** — Wilson-Ewing 2013 and Cai-Wilson-Ewing 2014 explicitly bridge F-03 and F-06.
-- **F-03 ↔ F-09 Hořava-Lifshitz:** HL gravity provides one of the bounce mechanisms surveyed in F-03 (Brandenberger 2009 arXiv:0904.2835 "Matter Bounce in Horava-Lifshitz Cosmology"). **Direct technical overlap.**
-- **F-03 ↔ D-01 trans-Planckian problem:** **Direct dissolution-path engagement.** Bouncing cosmology partially dissolves trans-Planckian problem if scale factor decreases adequately during contraction. Brandenberger is co-author of both F-03 (Brandenberger-Peter) and D-01 (Brandenberger-Martin).
-- **F-03 ↔ D-02 TCC:** Bouncing cosmology with appropriate contraction-phase dynamics is one of the trans-Planckian dissolution paths consistent with TCC (since modes never go trans-Planckian). **Partial alignment.**
+- **F-03 ↔ [F-01](F-01_ThemeC_deeppass.md) reheating:** F-03 is presented explicitly as **alternative to inflation** (F-01). Brandenberger-Peter 2017 abstract verbatim: "We review the status of bouncing cosmologies as alternatives to cosmological inflation for providing a description of the very early universe." **Direct alternative-framing relationship.** Some bounce models (ekpyrotic; LQC) borrow F-01-class reheating apparatus post-bounce.
+- **F-03 ↔ [F-06](F-06_ThemeC_deeppass.md) LQG/LQC:** Loop quantum cosmology bounce is one of the principal F-03 sub-classes. **Direct technical overlap** — Wilson-Ewing 2013 and Cai-Wilson-Ewing 2014 explicitly bridge F-03 and F-06.
+- **F-03 ↔ [F-09](F-09_ThemeC_deeppass.md) Hořava-Lifshitz:** HL gravity provides one of the bounce mechanisms surveyed in F-03 (Brandenberger 2009 arXiv:0904.2835 "Matter Bounce in Horava-Lifshitz Cosmology"). **Direct technical overlap.**
+- **F-03 ↔ [D-01](D-01_D-02_ThemeC_deeppass.md) trans-Planckian problem:** **Direct dissolution-path engagement.** Bouncing cosmology partially dissolves trans-Planckian problem if scale factor decreases adequately during contraction. Brandenberger is co-author of both F-03 (Brandenberger-Peter) and D-01 (Brandenberger-Martin).
+- **F-03 ↔ [D-02](D-01_D-02_ThemeC_deeppass.md) TCC:** Bouncing cosmology with appropriate contraction-phase dynamics is one of the trans-Planckian dissolution paths consistent with TCC (since modes never go trans-Planckian). **Partial alignment.**
 - **F-03 ↔ A-03 Valentini quantum non-equilibrium:** Valentini 2014 arXiv:1409.7467 referenced in F-03 follow-up literature — quantum non-equilibrium in bouncing/contracting cosmology context.
-- **F-03 ↔ B-02 Brill waves:** Both engage non-trivial geometric evolution. Bounce is sudden geometric change at minimum a(t); Brill waves are localised gravitational-wave configurations. Different scales (cosmological vs local) but both are gravity-primary geometric content.
-- **F-03 ↔ B-03 Brandenberger-Wang 2020 stringy bounce:** Stringy/extra-dimensional bounce mechanism — direct overlap with B-03 KK extra-dimensional framework.
+- **F-03 ↔ [B-02](B-02_ThemeC_deeppass.md) Brill waves:** Both engage non-trivial geometric evolution. Bounce is sudden geometric change at minimum a(t); Brill waves are localised gravitational-wave configurations. Different scales (cosmological vs local) but both are gravity-primary geometric content.
+- **F-03 ↔ [B-03](B-03_ThemeC_deeppass.md) Brandenberger-Wang 2020 stringy bounce:** Stringy/extra-dimensional bounce mechanism — direct overlap with B-03 KK extra-dimensional framework.
 - **F-03 ↔ UMF bounded-universe finite-lifecycle commitment:** **Direct alignment for single-bounce class; partial alignment for cyclic class** pending Stephen-decision on UMF CYC vs BND single.
 
 ### Outside-corpus markers

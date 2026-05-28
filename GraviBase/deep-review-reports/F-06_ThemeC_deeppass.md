@@ -144,14 +144,14 @@ F-06 LQG has **substantial indirect empirical engagement** via LQC bounce predic
 
 ### Cross-references
 
-- **F-06 ↔ F-03 bouncing cosmology:** **Direct technical overlap.** LQC bounce is one of F-03's principal sub-classes; Wilson-Ewing 2013 and Cai-Wilson-Ewing 2014 explicitly bridge both entries.
-- **F-06 ↔ F-07 causal set theory:** Both quantum-gravity frameworks; different discretisation approaches (LQG: continuous SU(2) gauge fields with spin-network discretisation; causal sets: discrete causal-order primitive). **Different quantum-gravity paradigms; same general direction.**
-- **F-06 ↔ F-09 Hořava-Lifshitz:** Both modified-quantum-gravity frameworks; HL with specific Lorentz-violating modification, LQG with quantum-geometric foundations. **Different specific commitments; both quantum-gravity-class.**
-- **F-06 ↔ D-01 trans-Planckian problem:** **Direct framework engagement.** LQG is one of the quantum-gravity UV completions that the trans-Planckian problem references; LQG addresses Planck-scale physics directly.
-- **F-06 ↔ D-02 TCC:** TCC operates within EFTs requiring consistent quantum-gravity UV completion. LQG is a candidate quantum-gravity framework; TCC is conjecture about properties EFTs derivable from such UV completions should have.
+- **F-06 ↔ [F-03](F-03_ThemeC_deeppass.md) bouncing cosmology:** **Direct technical overlap.** LQC bounce is one of F-03's principal sub-classes; Wilson-Ewing 2013 and Cai-Wilson-Ewing 2014 explicitly bridge both entries.
+- **F-06 ↔ [F-07](F-07_ThemeC_deeppass.md) causal set theory:** Both quantum-gravity frameworks; different discretisation approaches (LQG: continuous SU(2) gauge fields with spin-network discretisation; causal sets: discrete causal-order primitive). **Different quantum-gravity paradigms; same general direction.**
+- **F-06 ↔ [F-09](F-09_ThemeC_deeppass.md) Hořava-Lifshitz:** Both modified-quantum-gravity frameworks; HL with specific Lorentz-violating modification, LQG with quantum-geometric foundations. **Different specific commitments; both quantum-gravity-class.**
+- **F-06 ↔ [D-01](D-01_D-02_ThemeC_deeppass.md) trans-Planckian problem:** **Direct framework engagement.** LQG is one of the quantum-gravity UV completions that the trans-Planckian problem references; LQG addresses Planck-scale physics directly.
+- **F-06 ↔ [D-02](D-01_D-02_ThemeC_deeppass.md) TCC:** TCC operates within EFTs requiring consistent quantum-gravity UV completion. LQG is a candidate quantum-gravity framework; TCC is conjecture about properties EFTs derivable from such UV completions should have.
 - **F-06 ↔ A-07 pilot-wave QFT extensions:** Both engage QFT in quantum-gravity context; different specific frameworks.
-- **F-06 ↔ F-08 Verlinde EG:** Both engage foundational gravity questions but different approaches — F-06 LQG quantum-geometric; F-08 emergent-from-entropy. **Different specific commitments.**
-- **F-06 ↔ B-04 It-from-Bit + UMF v0.7 information allowance:** LQG admits information-theoretic interpretation via spinfoam transition amplitudes (Bianchi-Myers entanglement entropy work); structural alignment with information-allowance position.
+- **F-06 ↔ [F-08](F-08_ThemeC_deeppass.md) Verlinde EG:** Both engage foundational gravity questions but different approaches — F-06 LQG quantum-geometric; F-08 emergent-from-entropy. **Different specific commitments.**
+- **F-06 ↔ [B-04](B-04_ThemeC_deeppass.md) It-from-Bit + UMF v0.7 information allowance:** LQG admits information-theoretic interpretation via spinfoam transition amplitudes (Bianchi-Myers entanglement entropy work); structural alignment with information-allowance position.
 - **F-06 ↔ UMF gravity-primary commitment:** **Methodological-precedent for foundational-question-open status.** LQG matter coupling has been open question for decades while LQG remains mainstream-physics quantum-gravity framework. UMF's own foundational questions (T_G specification; matter-creation mechanism; etc.) have direct mainstream-programme precedent for foundational-question-open status.
 
 ### Outside-corpus markers

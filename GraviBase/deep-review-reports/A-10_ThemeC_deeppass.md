@@ -107,13 +107,13 @@ All FLEX (laboratory framework with arbitrary scale-up via analogue mapping). UM
 A-10 Analogue Gravity = laboratory experimental engagement for UMF compound phase-conjugate wavefront concept (Issue 1) + wave-excitations-sourcing-gravity mechanism (Issue 2). New dedicated section in v3.
 
 **Secondary deployment (compound experimental analogue):**
-A-06 Couder hydrodynamic (reflective aspect) + A-10 fibre-optic horizons (phase-conjugate aspect) + A-10 BEC massive-phonon (wave-sources-gravity aspect) = **three-laboratory-system compound experimental analogue for UMF v0.7 compound concept.**
+[A-06](A-06_ThemeC_deeppass.md) Couder hydrodynamic (reflective aspect) + A-10 fibre-optic horizons (phase-conjugate aspect) + A-10 BEC massive-phonon (wave-sources-gravity aspect) = **three-laboratory-system compound experimental analogue for UMF v0.7 compound concept.**
 
 **Tertiary deployment (Wheeler-tradition modern realisation):**
-A-10 BEC massive-phonon framework joins A-05 boson stars + F-08 Verlinde emergent gravity + B-04 + F-08 information allowance as **modern realisation of Wheeler-tradition matter-from-substrate programme** (A-01 historical foundation; A-05 + F-08 + A-10 modern realisations across particle/cosmological/laboratory contexts).
+A-10 BEC massive-phonon framework joins [A-05](A-05_ThemeC_deeppass.md) boson stars + [F-08](F-08_ThemeC_deeppass.md) Verlinde emergent gravity + [B-04](B-04_ThemeC_deeppass.md) + F-08 information allowance as **modern realisation of Wheeler-tradition matter-from-substrate programme** ([A-01](A-01_ThemeC_deeppass.md) historical foundation; A-05 + F-08 + A-10 modern realisations across particle/cosmological/laboratory contexts).
 
 **Quaternary deployment (analogue cosmology methodology):**
-A-10 + F-07 CST Sorkin 1990 Λ prediction + F-06 LQG methodological-precedent + B-04 Wheeler programmatic = **methodological-foundation cluster for UMF programmatic-cosmological-foundations stance with laboratory-engagement potential.**
+A-10 + [F-07](F-07_ThemeC_deeppass.md) CST Sorkin 1990 Λ prediction + [F-06](F-06_ThemeC_deeppass.md) LQG methodological-precedent + B-04 Wheeler programmatic = **methodological-foundation cluster for UMF programmatic-cosmological-foundations stance with laboratory-engagement potential.**
 
 ---
 

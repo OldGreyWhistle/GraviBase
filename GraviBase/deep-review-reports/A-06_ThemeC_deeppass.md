@@ -147,11 +147,11 @@ A-06 has **substantial direct experimental engagement** — this is its central 
 
 ### Cross-references
 
-- **A-06 ↔ A-02 Bohmian mechanics:** **Direct technical engagement** per Bush 2015 verbatim + 2024 arXiv:2408.05396 convergence analysis + Drezet-Amblard 2025 verbatim mechanical-analogue engagement. **CRITICAL** Bush 2015 qualification: A-06 closer to de Broglie 1927 original than to Bohm 1952. **A-02 + A-06 cross-coupling required for synthesis paper.**
+- **A-06 ↔ [A-02](A-02_ThemeC_deeppass.md) Bohmian mechanics:** **Direct technical engagement** per Bush 2015 verbatim + 2024 arXiv:2408.05396 convergence analysis + Drezet-Amblard 2025 verbatim mechanical-analogue engagement. **CRITICAL** Bush 2015 qualification: A-06 closer to de Broglie 1927 original than to Bohm 1952. **A-02 + A-06 cross-coupling required for synthesis paper.**
 - **A-06 ↔ A-03 Valentini relic:** Both engage pilot-wave-class framework. A-06 classical experimental; A-03 cosmological-relic-DM. **Different scales; same general direction.**
 - **A-06 ↔ A-07 DGTZ Bell-type QFT:** Both engage pilot-wave-class framework at different levels (A-06 classical experimental; A-07 QFT theoretical).
-- **A-06 ↔ A-09 Hestenes STA + zitter:** Both engage wave-particle-substrate frameworks. A-09 mathematical (geometric algebra + zitterbewegung); A-06 experimental (walking droplets). **Conceptual neighbourhood.**
-- **A-06 ↔ B-01 Misner-Wheeler geometrodynamics:** Both engage matter-from-field-content programmes. A-06 experimental classical wave-substrate; B-01 theoretical EM-geometric.
+- **A-06 ↔ [A-09](A-09_ThemeC_deeppass.md) Hestenes STA + zitter:** Both engage wave-particle-substrate frameworks. A-09 mathematical (geometric algebra + zitterbewegung); A-06 experimental (walking droplets). **Conceptual neighbourhood.**
+- **A-06 ↔ [B-01](B-01_ThemeC_deeppass.md) Misner-Wheeler geometrodynamics:** Both engage matter-from-field-content programmes. A-06 experimental classical wave-substrate; B-01 theoretical EM-geometric.
 - **A-06 ↔ UMF reflective-wavefront commitment:** **MOST DIRECT structural analogue in entire Theme C corpus.** Pilot-wave reflection off submerged boundaries and corral walls is core A-06 experimental mechanism; structural analogue to UMF reflective-wavefront commitment.
 - **A-06 ↔ UMF GWM (geometric wave model) foundations:** A-06 provides **classical mainstream-physics demonstration that quantum-like phenomena can emerge from wave-substrate dynamics**. Critical methodological precedent for GWM/UMF programme.
 

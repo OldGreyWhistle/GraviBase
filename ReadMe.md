@@ -28,7 +28,7 @@ Browne, S. L. (2026). *Gravity Research Indexed Database (GraviBase) — UMF Tri
 
 The toolkit serves two purposes:
 
-1. **For UMF Trial S3M0S1:** consolidated reference for the methodology layer governing the trial. Substantive UMF findings remain in the trial corpus (Synthesis Paper Scaffold, Research Plan, Amendments, deep-review reports, Introduction Letter) — referenced from but not duplicated by the toolkit.
+1. **For UMF Trial S3M0S1:** consolidated reference for the methodology layer governing the trial. Substantive UMF findings remain in the trial corpus (Synthesis Paper Scaffold, Research Plan, Amendments, deep-review reports, Introduction Letter) — referenced from but not duplicated by the toolkit. NOTICE: The Synthesis Paper Scaffold, and the Research Plan, are not currently published online.
 
 2. **For other research programmes:** reusable methodology framework. Stream 3 corpus-bounded discipline, modal-status preservation, audit-trail integrity, three-index navigation architecture, and version-control conventions are program-portable in schema. The UMF deployment in this repository demonstrates one full instantiation.
 
